@@ -1,3 +1,8 @@
+# Run code
+- python visualize_flow.py --eval_type seq --seq_dir [이미지 경로] --name [동영상 이름]
+
+
+
 # FlowFormer: A Transformer Architecture for Optical Flow
 ### [Project Page](https://drinkingcoder.github.io/publication/flowformer/) 
 
